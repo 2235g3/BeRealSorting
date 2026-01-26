@@ -1,0 +1,27 @@
+{
+    "username": "luckyjd",
+    "birthdate": {
+        "year": 2004,
+        "month": 10,
+        "day": 5
+    },
+    "fullname": "Jacob D",
+    "clientVersion": "3.66.0",
+    "device": "samsung SM-S921B Android 16",
+    "deviceId": "0b2231a74bf1d2b8",
+    "phoneNumber": "+447435122837",
+    "profilePicture": {
+        "path": "/Photos/SXzdl11MMOUHptovcu3lrZdtMGf2/profile/PunDdsAUTFKQZeXz7k2M6.webp",
+        "bucket": "storage.bere.al",
+        "height": "1000",
+        "width": "1000"
+    },
+    "biography": "He who has not tasted grapes, says sour",
+    "location": "Swimming Pool",
+    "platform": 2,
+    "countryCode": "GB",
+    "language": "en",
+    "timezone": "Europe/London",
+    "region": "europe-west",
+    "createdAt": "2022-07-09T22:04:27.134Z"
+}
